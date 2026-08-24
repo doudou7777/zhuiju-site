@@ -1,0 +1,37 @@
+name: 同步上游数据
+
+on:
+  schedule:
+    # 每 6 小时同步一次（UTC 时间，即北京时间 02:00/08:00/14:00/20:00 左右）
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # 也可以在 GitHub Actions 页面手动点击运行
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 拉取并合并上游数据
+        run: npm run sync
+
+      - name: 提交数据变更（若有）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/data.json
+          if git diff --cached --quiet; then
+            echo "数据无变化，无需提交"
+          else
+            git commit -m "chore: 同步上游数据 $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

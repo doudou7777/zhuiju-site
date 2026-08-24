@@ -1,0 +1,9 @@
+# 许可说明
+
+本项目（网站代码与界面）基于以下开源项目的数据与内容构建：
+
+- [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) — 采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可
+
+依照 CC BY 4.0 的要求，本网站保留了对上游项目的署名（见网站页脚与 README），数据内容按相同许可共享。
+
+本站自身的网站代码（HTML/CSS/JS、同步脚本、部署配置）同样以 CC BY 4.0 发布。

@@ -1,0 +1,13 @@
+{
+  "name": "zhuiju-free-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "基于 awesome-zhuiju-free 的独立追剧资源导航站（自动同步 + 友好界面）",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "build": "node scripts/sync.mjs",
+    "serve": "npx --yes serve site -l 8080"
+  },
+  "engines": { "node": ">=18" }
+}
