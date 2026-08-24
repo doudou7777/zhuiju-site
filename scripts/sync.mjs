@@ -59,6 +59,16 @@ function merge(resourcesJson, availabilityJson) {
   };
 }
 
+function contentKey(data) {
+  return JSON.stringify({
+    version: data.meta.version,
+    updated_at: data.meta.updated_at,
+    source_repo: data.meta.source_repo,
+    source_branch: data.meta.source_branch,
+    resources: data.resources
+  });
+}
+
 let ok = false;
 try {
   const [r, a] = await Promise.all([
@@ -66,10 +76,18 @@ try {
     fetchJson(SOURCES.availability)
   ]);
   const data = merge(r, a);
-  await mkdir(SITE_DIR, { recursive: true });
-  await writeFile(DATA_FILE, JSON.stringify(data, null, 2), 'utf8');
-  console.log('[sync] OK: ' + data.resources.length + ' resources, upstream updated_at=' + (data.meta.updated_at || 'n/a'));
-  ok = true;
+  let oldData = null;
+  try { oldData = JSON.parse(await readFile(DATA_FILE, 'utf8')); } catch (e) {}
+  if (oldData && contentKey(oldData) === contentKey(data)) {
+    console.log('[sync] 数据无变化，跳过写入（避免触发重复部署）');
+    ok = true;
+  } else {
+    data.meta.generated_at = new Date().toISOString();
+    await mkdir(SITE_DIR, { recursive: true });
+    await writeFile(DATA_FILE, JSON.stringify(data, null, 2), 'utf8');
+    console.log('[sync] OK: ' + data.resources.length + ' resources, upstream updated_at=' + (data.meta.updated_at || 'n/a'));
+    ok = true;
+  }
 } catch (err) {
   console.error('[sync] 拉取上游数据失败: ' + err.message);
   try {
