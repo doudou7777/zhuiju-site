@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "updated_at": "2026-10-05",
-    "generated_at": "2026-10-05T05:22:07.849Z",
+    "generated_at": "2026-10-06T06:10:18.095Z",
     "source_repo": "laoma2053/awesome-zhuiju-free",
     "source_branch": "main"
   },
@@ -56,8 +56,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.novipnoad.uk/",
-        "response_ms": 1029,
-        "checked_at": "2026-10-05T01:41:48.752Z",
+        "response_ms": 1352,
+        "checked_at": "2026-10-06T01:34:23.450Z",
         "attempts": 1,
         "error": null
       }
@@ -112,8 +112,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://gaze.red/",
-        "response_ms": 280,
-        "checked_at": "2026-10-05T01:41:48.800Z",
+        "response_ms": 250,
+        "checked_at": "2026-10-06T01:34:23.496Z",
         "attempts": 1,
         "error": null
       }
@@ -168,8 +168,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.sotvla.cc/",
-        "response_ms": 455,
-        "checked_at": "2026-10-05T01:41:48.801Z",
+        "response_ms": 263,
+        "checked_at": "2026-10-06T01:34:23.497Z",
         "attempts": 1,
         "error": null
       }
@@ -318,8 +318,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://baipiaozhe.com/",
-        "response_ms": 1745,
-        "checked_at": "2026-10-05T01:41:48.802Z",
+        "response_ms": 1595,
+        "checked_at": "2026-10-06T01:34:23.498Z",
         "attempts": 1,
         "error": null
       }
@@ -373,8 +373,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://ddmf.net/",
-        "response_ms": 160,
-        "checked_at": "2026-10-05T01:41:49.080Z",
+        "response_ms": 88,
+        "checked_at": "2026-10-06T01:34:23.746Z",
         "attempts": 1,
         "error": null
       }
@@ -428,8 +428,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.sorani.net/",
-        "response_ms": 8139,
-        "checked_at": "2026-10-05T01:41:49.240Z",
+        "response_ms": 1229,
+        "checked_at": "2026-10-06T01:34:23.760Z",
         "attempts": 1,
         "error": null
       }
@@ -480,11 +480,11 @@
       "availability": {
         "resource_id": "appmovie",
         "url": "https://www.appmovie.art",
-        "status": "restricted",
-        "http_status": 403,
+        "status": "reachable",
+        "http_status": 200,
         "final_url": "https://www.appmovie.art/",
-        "response_ms": 837,
-        "checked_at": "2026-10-05T01:41:49.256Z",
+        "response_ms": 749,
+        "checked_at": "2026-10-06T01:34:23.834Z",
         "attempts": 1,
         "error": null
       }
@@ -538,8 +538,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://kuhh4jo.com/",
-        "response_ms": 4971,
-        "checked_at": "2026-10-05T01:41:49.781Z",
+        "response_ms": 2352,
+        "checked_at": "2026-10-06T01:34:24.583Z",
         "attempts": 1,
         "error": null
       }
@@ -640,8 +640,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.937tv.vip/",
-        "response_ms": 116,
-        "checked_at": "2026-10-05T01:41:50.093Z",
+        "response_ms": 155,
+        "checked_at": "2026-10-06T01:34:24.801Z",
         "attempts": 1,
         "error": null
       }
@@ -695,8 +695,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.iyf.tv/",
-        "response_ms": 220,
-        "checked_at": "2026-10-05T01:41:50.209Z",
+        "response_ms": 443,
+        "checked_at": "2026-10-06T01:34:24.956Z",
         "attempts": 1,
         "error": null
       }
@@ -750,8 +750,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.czzymovie.com/",
-        "response_ms": 689,
-        "checked_at": "2026-10-05T01:41:50.429Z",
+        "response_ms": 571,
+        "checked_at": "2026-10-06T01:34:24.989Z",
         "attempts": 1,
         "error": null
       }
@@ -805,8 +805,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://libviobd.com/",
-        "response_ms": 1331,
-        "checked_at": "2026-10-05T01:41:50.547Z",
+        "response_ms": 701,
+        "checked_at": "2026-10-06T01:34:25.093Z",
         "attempts": 1,
         "error": null
       }
@@ -860,8 +860,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://www.aeete.com/",
-        "response_ms": 315,
-        "checked_at": "2026-10-05T01:41:51.118Z",
+        "response_ms": 295,
+        "checked_at": "2026-10-06T01:34:25.399Z",
         "attempts": 1,
         "error": null
       }
@@ -915,8 +915,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://dyrshd.net/",
-        "response_ms": 579,
-        "checked_at": "2026-10-05T01:41:51.433Z",
+        "response_ms": 250,
+        "checked_at": "2026-10-06T01:34:25.560Z",
         "attempts": 1,
         "error": null
       }
@@ -970,8 +970,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://darkvod.com/",
-        "response_ms": 462,
-        "checked_at": "2026-10-05T01:41:51.878Z",
+        "response_ms": 519,
+        "checked_at": "2026-10-06T01:34:25.694Z",
         "attempts": 1,
         "error": null
       }
@@ -1025,8 +1025,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.netflixgc.com/",
-        "response_ms": 568,
-        "checked_at": "2026-10-05T01:41:52.013Z",
+        "response_ms": 227,
+        "checked_at": "2026-10-06T01:34:25.794Z",
         "attempts": 1,
         "error": null
       }
@@ -1080,8 +1080,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.nfyingshi.com/",
-        "response_ms": 757,
-        "checked_at": "2026-10-05T01:41:52.340Z",
+        "response_ms": 632,
+        "checked_at": "2026-10-06T01:34:25.810Z",
         "attempts": 1,
         "error": null
       }
@@ -1182,8 +1182,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.ppnix.com/cn/",
-        "response_ms": 641,
-        "checked_at": "2026-10-05T01:41:52.581Z",
+        "response_ms": 343,
+        "checked_at": "2026-10-06T01:34:26.021Z",
         "attempts": 1,
         "error": null
       }
@@ -1237,8 +1237,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.dbku.tv/",
-        "response_ms": 144,
-        "checked_at": "2026-10-05T01:41:53.097Z",
+        "response_ms": 123,
+        "checked_at": "2026-10-06T01:34:26.213Z",
         "attempts": 1,
         "error": null
       }
@@ -1292,8 +1292,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://duoduozhuiju.com/",
-        "response_ms": 514,
-        "checked_at": "2026-10-05T01:41:53.222Z",
+        "response_ms": 444,
+        "checked_at": "2026-10-06T01:34:26.336Z",
         "attempts": 1,
         "error": null
       }
@@ -1347,8 +1347,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.ymck.pro/",
-        "response_ms": 624,
-        "checked_at": "2026-10-05T01:41:53.241Z",
+        "response_ms": 522,
+        "checked_at": "2026-10-06T01:34:26.364Z",
         "attempts": 1,
         "error": null
       }
@@ -1404,8 +1404,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www1.aikanbot.com/",
-        "response_ms": 354,
-        "checked_at": "2026-10-05T01:41:53.736Z",
+        "response_ms": 264,
+        "checked_at": "2026-10-06T01:34:26.442Z",
         "attempts": 1,
         "error": null
       }
@@ -1460,8 +1460,8 @@
         "status": "unreachable",
         "http_status": 850,
         "final_url": "https://www.duse0.com/",
-        "response_ms": 2190,
-        "checked_at": "2026-10-05T01:41:53.865Z",
+        "response_ms": 4564,
+        "checked_at": "2026-10-06T01:34:26.706Z",
         "attempts": 2,
         "error": null
       }
@@ -1563,8 +1563,8 @@
         "status": "unreachable",
         "http_status": 850,
         "final_url": "https://www.hhkan2.com/",
-        "response_ms": 2324,
-        "checked_at": "2026-10-05T01:41:54.090Z",
+        "response_ms": 3969,
+        "checked_at": "2026-10-06T01:34:26.780Z",
         "attempts": 2,
         "error": null
       }
@@ -1618,8 +1618,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://ifn.watch/register?code=8B1EF6",
-        "response_ms": 960,
-        "checked_at": "2026-10-05T01:41:54.752Z",
+        "response_ms": 1015,
+        "checked_at": "2026-10-06T01:34:26.886Z",
         "attempts": 1,
         "error": null
       }
@@ -1686,8 +1686,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://animeko.org/downloads/",
-        "response_ms": 304,
-        "checked_at": "2026-10-05T01:41:55.712Z",
+        "response_ms": 1013,
+        "checked_at": "2026-10-06T01:34:26.935Z",
         "attempts": 1,
         "error": null
       }
@@ -1754,8 +1754,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://kazumi.app/download/",
-        "response_ms": 581,
-        "checked_at": "2026-10-05T01:41:56.016Z",
+        "response_ms": 1796,
+        "checked_at": "2026-10-06T01:34:27.901Z",
         "attempts": 1,
         "error": null
       }
@@ -1820,8 +1820,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/4/",
-        "response_ms": 1174,
-        "checked_at": "2026-10-05T01:41:56.055Z",
+        "response_ms": 902,
+        "checked_at": "2026-10-06T01:34:27.948Z",
         "attempts": 1,
         "error": null
       }
@@ -1879,8 +1879,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/23/",
-        "response_ms": 642,
-        "checked_at": "2026-10-05T01:41:56.414Z",
+        "response_ms": 921,
+        "checked_at": "2026-10-06T01:34:28.850Z",
         "attempts": 1,
         "error": null
       }
@@ -1934,8 +1934,8 @@
         "status": "unreachable",
         "http_status": 404,
         "final_url": "https://zimuku.org/",
-        "response_ms": 315,
-        "checked_at": "2026-10-05T01:41:56.597Z",
+        "response_ms": 207,
+        "checked_at": "2026-10-06T01:34:29.697Z",
         "attempts": 1,
         "error": null
       }
@@ -1989,8 +1989,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://assrt.net/",
-        "response_ms": 1381,
-        "checked_at": "2026-10-05T01:41:56.912Z",
+        "response_ms": 1424,
+        "checked_at": "2026-10-06T01:34:29.771Z",
         "attempts": 1,
         "error": null
       }
@@ -2044,8 +2044,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://subhd.tv/",
-        "response_ms": 256,
-        "checked_at": "2026-10-05T01:41:57.056Z",
+        "response_ms": 164,
+        "checked_at": "2026-10-06T01:34:29.904Z",
         "attempts": 1,
         "error": null
       }
@@ -2099,8 +2099,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://kodi.tv/",
-        "response_ms": 156,
-        "checked_at": "2026-10-05T01:41:57.229Z",
+        "response_ms": 63,
+        "checked_at": "2026-10-06T01:34:30.068Z",
         "attempts": 1,
         "error": null
       }
@@ -2154,8 +2154,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://github.com/iptv-org/iptv",
-        "response_ms": 422,
-        "checked_at": "2026-10-05T01:41:57.312Z",
+        "response_ms": 447,
+        "checked_at": "2026-10-06T01:34:30.131Z",
         "attempts": 1,
         "error": null
       }
@@ -2211,8 +2211,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "http://www.xn--sss604efuw.net/tv",
-        "response_ms": 978,
-        "checked_at": "2026-10-05T01:41:57.379Z",
+        "response_ms": 666,
+        "checked_at": "2026-10-06T01:34:30.578Z",
         "attempts": 1,
         "error": null
       }
@@ -2267,8 +2267,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "http://xn--z7x900a.net/",
-        "response_ms": 1277,
-        "checked_at": "2026-10-05T01:41:57.385Z",
+        "response_ms": 1356,
+        "checked_at": "2026-10-06T01:34:30.749Z",
         "attempts": 1,
         "error": null
       }
@@ -2323,8 +2323,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://raw.liucn.cc/box/m.json",
-        "response_ms": 202,
-        "checked_at": "2026-10-05T01:41:57.734Z",
+        "response_ms": 331,
+        "checked_at": "2026-10-06T01:34:31.195Z",
         "attempts": 1,
         "error": null
       }
@@ -2379,8 +2379,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://szyyds.cn/tv/x.json",
-        "response_ms": 1200,
-        "checked_at": "2026-10-05T01:41:57.936Z",
+        "response_ms": 1241,
+        "checked_at": "2026-10-06T01:34:31.244Z",
         "attempts": 1,
         "error": null
       }
@@ -2436,8 +2436,8 @@
         "status": "unreachable",
         "http_status": null,
         "final_url": null,
-        "response_ms": 363,
-        "checked_at": "2026-10-05T01:41:58.293Z",
+        "response_ms": 210,
+        "checked_at": "2026-10-06T01:34:31.270Z",
         "attempts": 2,
         "error": "fetch failed"
       }
@@ -2493,8 +2493,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://www.xn--4kq62z5rby2qupq9ub.top/",
-        "response_ms": 1559,
-        "checked_at": "2026-10-05T01:41:58.357Z",
+        "response_ms": 223,
+        "checked_at": "2026-10-06T01:34:31.480Z",
         "attempts": 1,
         "error": null
       }
@@ -2549,8 +2549,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "http://xhztv.top/4k.json",
-        "response_ms": 171,
-        "checked_at": "2026-10-05T01:41:58.656Z",
+        "response_ms": 135,
+        "checked_at": "2026-10-06T01:34:31.526Z",
         "attempts": 1,
         "error": null
       }
@@ -2605,8 +2605,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "http://xhztv.top/xhz/",
-        "response_ms": 277,
-        "checked_at": "2026-10-05T01:41:58.662Z",
+        "response_ms": 168,
+        "checked_at": "2026-10-06T01:34:31.661Z",
         "attempts": 1,
         "error": null
       }
@@ -2661,8 +2661,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "http://rihou.cc:88/demo.php",
-        "response_ms": 627,
-        "checked_at": "2026-10-05T01:41:58.827Z",
+        "response_ms": 490,
+        "checked_at": "2026-10-06T01:34:31.703Z",
         "attempts": 1,
         "error": null
       }
@@ -2717,8 +2717,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "http://xn--nsr30bl8nb2kyt7a8vs.top/",
-        "response_ms": 2411,
-        "checked_at": "2026-10-05T01:41:58.939Z",
+        "response_ms": 2092,
+        "checked_at": "2026-10-06T01:34:31.829Z",
         "attempts": 1,
         "error": null
       }
@@ -2773,8 +2773,8 @@
         "status": "restricted",
         "http_status": 401,
         "final_url": "https://6800.kstore.vip/fish.json",
-        "response_ms": 444,
-        "checked_at": "2026-10-05T01:41:59.136Z",
+        "response_ms": 679,
+        "checked_at": "2026-10-06T01:34:32.105Z",
         "attempts": 1,
         "error": null
       }
@@ -2829,8 +2829,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "http://xhztv.top/dc/",
-        "response_ms": 469,
-        "checked_at": "2026-10-05T01:41:59.454Z",
+        "response_ms": 406,
+        "checked_at": "2026-10-06T01:34:32.193Z",
         "attempts": 1,
         "error": null
       }
@@ -2885,8 +2885,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "http://xmbjm.fh4u.org/dc.txt",
-        "response_ms": 689,
-        "checked_at": "2026-10-05T01:41:59.580Z",
+        "response_ms": 820,
+        "checked_at": "2026-10-06T01:34:32.485Z",
         "attempts": 1,
         "error": null
       }
@@ -2941,8 +2941,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://ztha.top/TVBox/GYCK.json",
-        "response_ms": 1827,
-        "checked_at": "2026-10-05T01:41:59.916Z",
+        "response_ms": 1881,
+        "checked_at": "2026-10-06T01:34:32.599Z",
         "attempts": 1,
         "error": null
       }
@@ -2998,8 +2998,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.xhztv.pro/",
-        "response_ms": 419,
-        "checked_at": "2026-10-05T01:41:59.923Z",
+        "response_ms": 577,
+        "checked_at": "2026-10-06T01:34:32.784Z",
         "attempts": 1,
         "error": null
       }
@@ -3055,8 +3055,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.juhebd.com/",
-        "response_ms": 126,
-        "checked_at": "2026-10-05T01:42:00.269Z",
+        "response_ms": 119,
+        "checked_at": "2026-10-06T01:34:33.305Z",
         "attempts": 1,
         "error": null
       }
@@ -3110,8 +3110,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://video.ainunu.com/",
-        "response_ms": 149,
-        "checked_at": "2026-10-05T01:42:00.342Z",
+        "response_ms": 100,
+        "checked_at": "2026-10-06T01:34:33.361Z",
         "attempts": 1,
         "error": null
       }
@@ -3165,10 +3165,10 @@
         "resource_id": "bdflixs",
         "url": "https://www.bdflixs.com/",
         "status": "reachable",
-        "http_status": 200,
+        "http_status": 206,
         "final_url": "https://www.bdflixs.com/",
-        "response_ms": 785,
-        "checked_at": "2026-10-05T01:42:00.395Z",
+        "response_ms": 677,
+        "checked_at": "2026-10-06T01:34:33.424Z",
         "attempts": 1,
         "error": null
       }
@@ -3224,8 +3224,8 @@
         "status": "reachable",
         "http_status": 206,
         "final_url": "https://www.ldysg.win/",
-        "response_ms": 1016,
-        "checked_at": "2026-10-05T01:42:00.491Z",
+        "response_ms": 1776,
+        "checked_at": "2026-10-06T01:34:33.461Z",
         "attempts": 1,
         "error": null
       }
@@ -3280,8 +3280,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.mjf2020.com/",
-        "response_ms": 1077,
-        "checked_at": "2026-10-05T01:42:01.180Z",
+        "response_ms": 709,
+        "checked_at": "2026-10-06T01:34:33.921Z",
         "attempts": 1,
         "error": null
       }
@@ -3335,8 +3335,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.cilixiong.org/",
-        "response_ms": 511,
-        "checked_at": "2026-10-05T01:42:01.350Z",
+        "response_ms": 350,
+        "checked_at": "2026-10-06T01:34:34.101Z",
         "attempts": 1,
         "error": null
       }
@@ -3390,8 +3390,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://ciligou.net/",
-        "response_ms": 328,
-        "checked_at": "2026-10-05T01:42:01.507Z",
+        "response_ms": 201,
+        "checked_at": "2026-10-06T01:34:34.451Z",
         "attempts": 1,
         "error": null
       }
@@ -3445,8 +3445,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.cld123.com/",
-        "response_ms": 120,
-        "checked_at": "2026-10-05T01:42:01.743Z",
+        "response_ms": 107,
+        "checked_at": "2026-10-06T01:34:34.480Z",
         "attempts": 1,
         "error": null
       }
@@ -3501,8 +3501,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.btbtla.com/",
-        "response_ms": 923,
-        "checked_at": "2026-10-05T01:42:01.835Z",
+        "response_ms": 704,
+        "checked_at": "2026-10-06T01:34:34.587Z",
         "attempts": 1,
         "error": null
       }
@@ -3557,10 +3557,10 @@
         "status": "unreachable",
         "http_status": null,
         "final_url": null,
-        "response_ms": 10919,
-        "checked_at": "2026-10-05T01:42:01.861Z",
+        "response_ms": 15943,
+        "checked_at": "2026-10-06T01:34:34.630Z",
         "attempts": 2,
-        "error": "fetch failed"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -3613,8 +3613,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.dyg22.com/",
-        "response_ms": 1475,
-        "checked_at": "2026-10-05T01:42:01.863Z",
+        "response_ms": 1438,
+        "checked_at": "2026-10-06T01:34:34.652Z",
         "attempts": 1,
         "error": null
       }
@@ -3669,8 +3669,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.btsj6.com/",
-        "response_ms": 1462,
-        "checked_at": "2026-10-05T01:42:02.257Z",
+        "response_ms": 1327,
+        "checked_at": "2026-10-06T01:34:35.237Z",
         "attempts": 1,
         "error": null
       }
@@ -3725,8 +3725,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.mp4ba.vip/",
-        "response_ms": 1053,
-        "checked_at": "2026-10-05T01:42:02.758Z",
+        "response_ms": 1111,
+        "checked_at": "2026-10-06T01:34:35.291Z",
         "attempts": 1,
         "error": null
       }
@@ -3781,8 +3781,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://hdzu.org/",
-        "response_ms": 621,
-        "checked_at": "2026-10-05T01:42:03.338Z",
+        "response_ms": 1180,
+        "checked_at": "2026-10-06T01:34:36.090Z",
         "attempts": 1,
         "error": null
       }
@@ -3837,8 +3837,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://pansou.de/",
-        "response_ms": 1030,
-        "checked_at": "2026-10-05T01:42:03.719Z",
+        "response_ms": 663,
+        "checked_at": "2026-10-06T01:34:36.402Z",
         "attempts": 1,
         "error": null
       }
@@ -3894,8 +3894,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://kkso.net/",
-        "response_ms": 724,
-        "checked_at": "2026-10-05T01:42:03.811Z",
+        "response_ms": 585,
+        "checked_at": "2026-10-06T01:34:36.564Z",
         "attempts": 1,
         "error": null
       }
@@ -3950,8 +3950,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.zhuiju.us/",
-        "response_ms": 834,
-        "checked_at": "2026-10-05T01:42:03.959Z",
+        "response_ms": 751,
+        "checked_at": "2026-10-06T01:34:37.065Z",
         "attempts": 1,
         "error": null
       }
@@ -4006,8 +4006,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://gugeso.com/",
-        "response_ms": 1600,
-        "checked_at": "2026-10-05T01:42:04.535Z",
+        "response_ms": 1392,
+        "checked_at": "2026-10-06T01:34:37.149Z",
         "attempts": 1,
         "error": null
       }
@@ -4701,8 +4701,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://tv.xn--yhqu5zs87a.top/",
-        "response_ms": 500,
-        "checked_at": "2026-10-05T01:42:04.749Z",
+        "response_ms": 128,
+        "checked_at": "2026-10-06T01:34:37.270Z",
         "attempts": 1,
         "error": null
       }
@@ -4758,8 +4758,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/19/",
-        "response_ms": 279,
-        "checked_at": "2026-10-05T01:42:04.793Z",
+        "response_ms": 191,
+        "checked_at": "2026-10-06T01:34:37.398Z",
         "attempts": 1,
         "error": null
       }
@@ -4816,8 +4816,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/18/",
-        "response_ms": 324,
-        "checked_at": "2026-10-05T01:42:05.072Z",
+        "response_ms": 183,
+        "checked_at": "2026-10-06T01:34:37.589Z",
         "attempts": 1,
         "error": null
       }
@@ -4873,8 +4873,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/17/",
-        "response_ms": 332,
-        "checked_at": "2026-10-05T01:42:05.249Z",
+        "response_ms": 195,
+        "checked_at": "2026-10-06T01:34:37.772Z",
         "attempts": 1,
         "error": null
       }
@@ -4932,8 +4932,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/16/",
-        "response_ms": 324,
-        "checked_at": "2026-10-05T01:42:05.396Z",
+        "response_ms": 193,
+        "checked_at": "2026-10-06T01:34:37.816Z",
         "attempts": 1,
         "error": null
       }
@@ -4988,8 +4988,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://b.zhuiju.me/archives/15/",
-        "response_ms": 261,
-        "checked_at": "2026-10-05T01:42:05.581Z",
+        "response_ms": 184,
+        "checked_at": "2026-10-06T01:34:37.967Z",
         "attempts": 1,
         "error": null
       }
@@ -5041,8 +5041,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://sidhub.cc/",
-        "response_ms": 252,
-        "checked_at": "2026-10-05T01:42:05.720Z",
+        "response_ms": 63,
+        "checked_at": "2026-10-06T01:34:38.009Z",
         "attempts": 1,
         "error": null
       }
@@ -5094,8 +5094,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://acg.rip/",
-        "response_ms": 784,
-        "checked_at": "2026-10-05T01:42:05.842Z",
+        "response_ms": 943,
+        "checked_at": "2026-10-06T01:34:38.072Z",
         "attempts": 1,
         "error": null
       }
@@ -5255,8 +5255,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.4kvm.cc/",
-        "response_ms": 706,
-        "checked_at": "2026-10-05T01:42:05.972Z",
+        "response_ms": 704,
+        "checked_at": "2026-10-06T01:34:38.151Z",
         "attempts": 1,
         "error": null
       }
@@ -5312,8 +5312,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://fdzys.com/",
-        "response_ms": 1052,
-        "checked_at": "2026-10-05T01:42:06.135Z",
+        "response_ms": 735,
+        "checked_at": "2026-10-06T01:34:38.541Z",
         "attempts": 1,
         "error": null
       }
@@ -5369,8 +5369,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.lsjys11.com/",
-        "response_ms": 833,
-        "checked_at": "2026-10-05T01:42:06.626Z",
+        "response_ms": 502,
+        "checked_at": "2026-10-06T01:34:38.855Z",
         "attempts": 1,
         "error": null
       }
@@ -5422,8 +5422,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://naifei.fyi/",
-        "response_ms": 846,
-        "checked_at": "2026-10-05T01:42:06.678Z",
+        "response_ms": 319,
+        "checked_at": "2026-10-06T01:34:39.015Z",
         "attempts": 1,
         "error": null
       }
@@ -5477,8 +5477,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://juok3.top/",
-        "response_ms": 226,
-        "checked_at": "2026-10-05T01:42:07.187Z",
+        "response_ms": 143,
+        "checked_at": "2026-10-06T01:34:39.276Z",
         "attempts": 1,
         "error": null
       }
@@ -5578,8 +5578,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://zndy.top/",
-        "response_ms": 836,
-        "checked_at": "2026-10-05T01:42:07.413Z",
+        "response_ms": 1057,
+        "checked_at": "2026-10-06T01:34:39.334Z",
         "attempts": 1,
         "error": null
       }
@@ -5680,8 +5680,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.juzong01.me/",
-        "response_ms": 632,
-        "checked_at": "2026-10-05T01:42:07.459Z",
+        "response_ms": 268,
+        "checked_at": "2026-10-06T01:34:39.357Z",
         "attempts": 1,
         "error": null
       }
@@ -5736,8 +5736,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://jisuzhuiju.com/",
-        "response_ms": 2317,
-        "checked_at": "2026-10-05T01:42:07.524Z",
+        "response_ms": 1921,
+        "checked_at": "2026-10-06T01:34:39.419Z",
         "attempts": 1,
         "error": null
       }
@@ -5792,8 +5792,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://4k01.pianku.online/",
-        "response_ms": 703,
-        "checked_at": "2026-10-05T01:42:08.091Z",
+        "response_ms": 271,
+        "checked_at": "2026-10-06T01:34:39.625Z",
         "attempts": 1,
         "error": null
       }
@@ -5847,8 +5847,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.77dpw.vip/",
-        "response_ms": 397,
-        "checked_at": "2026-10-05T01:42:08.249Z",
+        "response_ms": 280,
+        "checked_at": "2026-10-06T01:34:39.896Z",
         "attempts": 1,
         "error": null
       }
@@ -5903,8 +5903,8 @@
         "status": "unreachable",
         "http_status": null,
         "final_url": null,
-        "response_ms": 410,
-        "checked_at": "2026-10-05T01:42:08.646Z",
+        "response_ms": 234,
+        "checked_at": "2026-10-06T01:34:40.176Z",
         "attempts": 2,
         "error": "fetch failed"
       }
@@ -5959,8 +5959,8 @@
         "status": "restricted",
         "http_status": 403,
         "final_url": "https://www.didahd.xyz/",
-        "response_ms": 399,
-        "checked_at": "2026-10-05T01:42:08.794Z",
+        "response_ms": 477,
+        "checked_at": "2026-10-06T01:34:40.391Z",
         "attempts": 1,
         "error": null
       }
@@ -6016,8 +6016,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://zhuiying3.cc/",
-        "response_ms": 845,
-        "checked_at": "2026-10-05T01:42:09.056Z",
+        "response_ms": 654,
+        "checked_at": "2026-10-06T01:34:40.410Z",
         "attempts": 1,
         "error": null
       }
@@ -6071,8 +6071,8 @@
         "status": "unreachable",
         "http_status": null,
         "final_url": null,
-        "response_ms": 3535,
-        "checked_at": "2026-10-05T01:42:09.193Z",
+        "response_ms": 1985,
+        "checked_at": "2026-10-06T01:34:40.868Z",
         "attempts": 2,
         "error": "fetch failed"
       }
@@ -6126,8 +6126,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.kxyy1.cc/",
-        "response_ms": 729,
-        "checked_at": "2026-10-05T01:42:09.841Z",
+        "response_ms": 789,
+        "checked_at": "2026-10-06T01:34:41.064Z",
         "attempts": 1,
         "error": null
       }
@@ -6181,8 +6181,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://dhvideo.cc/",
-        "response_ms": 503,
-        "checked_at": "2026-10-05T01:42:09.901Z",
+        "response_ms": 158,
+        "checked_at": "2026-10-06T01:34:41.340Z",
         "attempts": 1,
         "error": null
       }
@@ -6291,8 +6291,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://zip0.com/?r=KBDIG8",
-        "response_ms": 192,
-        "checked_at": "2026-10-05T01:42:10.404Z",
+        "response_ms": 120,
+        "checked_at": "2026-10-06T01:34:41.498Z",
         "attempts": 1,
         "error": null
       }
@@ -6344,8 +6344,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://www.aipan.me/",
-        "response_ms": 350,
-        "checked_at": "2026-10-05T01:42:10.570Z",
+        "response_ms": 147,
+        "checked_at": "2026-10-06T01:34:41.618Z",
         "attempts": 1,
         "error": null
       }
@@ -6397,8 +6397,8 @@
         "status": "unreachable",
         "http_status": 850,
         "final_url": "https://www.kkys14.com/",
-        "response_ms": 4513,
-        "checked_at": "2026-10-05T01:42:10.596Z",
+        "response_ms": 1966,
+        "checked_at": "2026-10-06T01:34:41.765Z",
         "attempts": 2,
         "error": null
       }
@@ -6450,8 +6450,8 @@
         "status": "reachable",
         "http_status": 200,
         "final_url": "https://skr.skr1.cc:666/",
-        "response_ms": 2521,
-        "checked_at": "2026-10-05T01:42:10.920Z",
+        "response_ms": 1676,
+        "checked_at": "2026-10-06T01:34:41.853Z",
         "attempts": 1,
         "error": null
       }
